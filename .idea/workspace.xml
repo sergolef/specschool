@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="002c6470-e18b-4616-9a30-d36647f0d497" name="Default" comment="Added drupal files">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/aaa_update_test.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/images/add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/icons/application-octet-stream.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/icons/application-pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/icons/application-x-executable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/arrow-asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/arrow-asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/arrow-desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/arrow-desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/arrow-next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/arrow-prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/icons/audio-x-generic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/overlay/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/color/base.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/color/base.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/images/bg-bar-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/images/bg-bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/images/bg-content-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/images/bg-content-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/images/bg-content.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/images/bg-navigation-item-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/images/bg-navigation-item.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/images/bg-navigation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/images/bg-tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/images/body.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/images/buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/overlay/images/close-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/overlay/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/images/comment-arrow-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/images/comment-arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/configure.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/draggable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-7.bare.minimal.database.php.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-7.bare.standard_all.database.php.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-7.filled.minimal.database.php.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-7.filled.standard_all.database.php.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/druplicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/fc-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/fc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/feed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/forum-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contextual/images/gear-select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/images/gradient-inner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/grippie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/color/images/hook-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/color/images/hook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/image-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/image-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/image-test.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/image-test.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/image-test.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/icons/image-x-generic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/list-item-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/list-item.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/color/images/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/openid/login-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/stark/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/farbtastic/marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/farbtastic/mask.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/images/menu-collapsed-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/menu-collapsed-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/images/menu-collapsed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/menu-collapsed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/images/menu-expanded.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/menu-expanded.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/images/menu-leaf.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/menu-leaf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/message-16-error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/message-16-help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/message-16-info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/message-16-ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/message-16-warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/message-24-error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/message-24-help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/message-24-info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/message-24-ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/message-24-warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/icons/package-x-generic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/permissions.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/powered-black-135x42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/powered-black-80x15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/powered-black-88x31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/powered-blue-135x42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/powered-blue-80x15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/powered-blue-88x31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/powered-gray-135x42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/powered-gray-80x15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/powered-gray-88x31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/color/preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/color/preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/progress.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/sample.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/stark/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/images/search-button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/shortcut/shortcut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/specschool.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/images/tabs-border.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/task-check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/task-item-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/task-item.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/images/task-list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/icons/text-html.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/icons/text-plain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/icons/text-x-generic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/icons/text-x-script.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/throbber.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/toolbar/toolbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/tree-bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/ui-icons-222222-256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/ui-icons-454545-256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/ui-icons-800000-256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/ui-icons-888888-256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/images/ui-icons-ffffff-256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/icons/video-x-generic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/watchdog-error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/watchdog-ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/watchdog-warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/farbtastic/wheel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/icons/x-office-document.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/icons/x-office-presentation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/icons/x-office-spreadsheet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CHANGELOG.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COPYRIGHT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/psr_0_test/lib/Drupal/psr_0_test/Tests/ExampleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/INSTALL.mysql.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/INSTALL.pgsql.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/INSTALL.sqlite.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/INSTALL.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MAINTAINERS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/psr_0_test/lib/Drupal/psr_0_test/Tests/Nested/NestedExampleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/lib/Drupal/simpletest/Tests/PSR0WebTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/minimal/translations/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/standard/translations/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/stark/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UPGRADE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/tests/UnicodeTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/aaa_update_test.1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/aaa_update_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/aaa_update_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/aaa_update_test.no-releases.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/actions.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/actions.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/actions_loop_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/actions_loop_test.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/actions_loop_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator-feed-source.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator-item.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator-summary-item.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator-summary-items.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator-wrapper.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator.fetcher.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator.parser.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator.processor.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/tests/aggregator_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/tests/aggregator_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/tests/aggregator_test_atom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/aggregator/tests/aggregator_test_rss091.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/ajax.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/ajax.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/ajax_forms_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/ajax_forms_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/ajax_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/ajax_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/archiver.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/authorize.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/authorize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/authorize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/autocomplete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/bartik.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/batch.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/batch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/batch.queue.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/batch.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/batch_test.callbacks.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/batch_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/batch_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/bbb_update_test.1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/bbb_update_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/bbb_update_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/block/block-admin-display-form.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/block/block.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/block/block.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/block/block.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/block/block.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/block/block.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/block/block.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/block/block.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/block/block.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/block/block.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/block/tests/block_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/block/tests/block_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/block/tests/themes/block_test_theme/block_test_theme.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/blog/blog.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/blog/blog.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/blog/blog.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/blog/blog.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/blog/blog.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/book/book-all-books-block.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/book/book-export-html.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/book/book-navigation.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/book/book-node-export-html.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/book/book-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/book/book.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/book/book.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/book/book.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/book/book.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/book/book.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/book/book.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/book/book.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/book/book.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/bootstrap.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/bootstrap.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/cache-install.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/cache.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/cache.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/ccc_update_test.1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/ccc_update_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/ccc_update_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/code-clean.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/color/color-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/color/color.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/color/color.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/color/color.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/color/color.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/color/color.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/color/color.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/color/color.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/color/color.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/css/colors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/comment/comment-node-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/comment/comment-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/comment/comment-wrapper.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/templates/comment-wrapper.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/comment/comment.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/comment/comment.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/comment/comment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/comment/comment.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/comment/comment.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/comment/comment.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/comment/comment.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/comment/comment.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/comment/comment.tokens.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/comment/comment.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/templates/comment.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/comment.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/css_test_files/comment_hacks.css.optimized.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/css_test_files/comment_hacks.css.unoptimized.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/css_test_files/comment_hacks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/common.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/common.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/common_test.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/common_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/common_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/common_test.print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/common_test_cron_helper.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/common_test_cron_helper.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/common_test_info.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contact/contact.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contact/contact.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contact/contact.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contact/contact.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contact/contact.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contact/contact.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/content_types.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/content_types.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contextual/contextual-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contextual/contextual.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contextual/contextual.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contextual/contextual.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contextual/contextual.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contextual/contextual.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contextual/contextual.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/cron-curl.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/cron-lynx.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/css_test_files/css_input_with_import.css.optimized.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/css_test_files/css_input_with_import.css.unoptimized.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/css_test_files/css_input_with_import.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/css_test_files/css_input_without_import.css.optimized.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/css_test_files/css_input_without_import.css.unoptimized.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/css_test_files/css_input_without_import.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/dashboard/dashboard-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/dashboard/dashboard.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/dashboard/dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/dashboard/dashboard.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/dashboard/dashboard.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/dashboard/dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/dashboard/dashboard.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/dashboard/dashboard.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/database.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/mysql/database.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/pgsql/database.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/sqlite/database.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/database_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/database_test.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/database_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/database_test.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/date.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/dblog/dblog-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/dblog/dblog.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/dblog/dblog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/dblog/dblog.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/dblog/dblog.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/dblog/dblog.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/dblog/dblog.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/default.settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-6.bare.database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-6.comments.database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-6.duplicate-permission.database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-6.filled.database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-6.forum.database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-6.locale.database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-6.menu.database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-6.node_type_broken.database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-6.translatable.database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-6.trigger.database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-6.upload.database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-6.user-no-password-token.database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-6.user-password-token.database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-7.aggregator.database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-7.field.database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/drupal-7.trigger.database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/drupal.0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/drupal.1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/drupal.2-sec.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/drupal.dev.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/drupal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/drupal.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/testing/modules/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/testing/modules/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/testing/modules/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/drupal_system_listing_incompatible_test/drupal_system_listing_incompatible_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/testing/modules/drupal_system_listing_incompatible_test/drupal_system_listing_incompatible_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/drupal_system_listing_incompatible_test/drupal_system_listing_incompatible_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/testing/modules/drupal_system_listing_incompatible_test/drupal_system_listing_incompatible_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/drupal_web_test_case.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/dump-database-d6.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/dump-database-d7.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/entity.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/entity_cache_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/entity_cache_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/entity_cache_test_dependency.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/entity_cache_test_dependency.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/entity_crud_hook_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/entity_crud_hook_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/entity_crud_hook_test.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/entity_query.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/entity_query_access_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/entity_query_access_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/error.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/error_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/error_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/errors.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/example.sites.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/farbtastic/farbtastic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/farbtastic/farbtastic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/theme/field-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/field.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/field.attach.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/field.crud.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/theme/field.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/field.default.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/field.form.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/field.info.class.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/field.info.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/field.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/field.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/field.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/field.multilingual.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/tests/field.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/theme/field.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/field_sql_storage/field_sql_storage.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/field_sql_storage/field_sql_storage.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/field_sql_storage/field_sql_storage.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/field_sql_storage/field_sql_storage.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/tests/field_test.entity.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/tests/field_test.field.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/tests/field_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/tests/field_test.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/tests/field_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/tests/field_test.storage.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_ui/field_ui-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_ui/field_ui.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_ui/field_ui.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_ui/field_ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_ui/field_ui.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_ui/field_ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_ui/field_ui.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_ui/field_ui.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/file.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/file.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/file.field.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/file.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/file.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/file.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/file.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/file.mimetypes.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/file.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/tests/file.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/file.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/tests/file_module_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/file/tests/file_module_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/file_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/file_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/filetransfer/filetransfer.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/filetransfer.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/filter/filter.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/filter/filter.admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/filter/filter.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/filter/filter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/filter/filter.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/filter/filter.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/filter/filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/filter/filter.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/filter/filter.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/filter/filter.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/filter/tests/filter.url-input.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/filter/tests/filter.url-output.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/filter_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/filter_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/fix-ie-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/fix-ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/form.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/form.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/form_test.file.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/form_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/form_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/forum/forum-icon.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/forum/forum-list.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/forum/forum-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/forum/forum-submitted.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/forum/forum-topic-list.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/forum/forum.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/forum/forum.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/forum/forum.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/forum/forum.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/forum/forum.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/forum/forum.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/forum/forum.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/forum/forums.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/filetransfer/ftp.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/garland.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/generate-d6-content.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/generate-d7-content.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/graph.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/graph.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/help/help-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/help/help.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/help/help.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/help/help.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/help/help.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/help/help.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/help/help.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/html-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/html-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/html.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/http.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/https.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/css/ie-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/css/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/css/ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/image-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/image.admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/image.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/image.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/image.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/image.effects.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/image.field.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/image.gd.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/image.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/image.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/image.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/image.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/image.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/image.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/tests/image_module_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/tests/image_module_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/image_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/image_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/css_test_files/import1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/css_test_files/import2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/install.core.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/install.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/mysql/install.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/pgsql/install.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/sqlite/install.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/install.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/iso.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/javascript-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/javascript-2.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/jquery.ba-bbq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.effects.blind.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.effects.bounce.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.effects.clip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.effects.core.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.effects.drop.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.effects.explode.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.effects.fade.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.effects.fold.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.effects.highlight.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.effects.pulsate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.effects.scale.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.effects.shake.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.effects.slide.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.effects.transfer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/jquery.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/jquery.once.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.accordion.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.autocomplete.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.autocomplete.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.button.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.core.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.datepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.dialog.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.draggable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.droppable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.mouse.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.position.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.progressbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.resizable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.resizable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.selectable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.selectable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.slider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.sortable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.tabs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/jquery.ui.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/ui/jquery.ui.widget.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/json-encode.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/language.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/language.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/css/layout-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/css/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/stark/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/list/list.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/list/list.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/list/list.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/list/tests/list.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/list/tests/list_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/list/tests/list_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/filetransfer/local.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/locale/locale-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/locale/locale.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/locale/locale.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/locale/locale.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/locale/locale.datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/locale.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/locale/locale.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/locale/locale.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/locale/locale.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/locale/locale.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/locale/tests/locale_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/locale/tests/locale_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/locale/tests/locale_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/lock.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/lock.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/log.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/machine-name.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/mail.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/mail.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/css/maintenance-page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/maintenance-page.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/templates/maintenance-page.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/maintenance-page.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/maintenance-page.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu/menu.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu/menu.admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu/menu.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/menu.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu/menu.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu/menu.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu/menu.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu/menu.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/menu.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/menu_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/menu_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/minimal/minimal.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/minimal/minimal.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/minimal/minimal.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/module.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/module.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/module_test.file.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/module_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/module_test.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/module_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/node.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/node.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/node.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/node.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/node.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/node.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/node.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/node.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/node.tokens.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/node.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/templates/node.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/node.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/tests/node_access_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/tests/node_access_test.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/tests/node_access_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/tests/node_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/tests/node_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/tests/node_test_exception.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/node/tests/node_test_exception.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/number/number.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/number/number.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/number/number.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/number/number.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/openid/openid-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/openid/openid.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/openid/openid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/openid/openid.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/openid/openid.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/openid/openid.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/openid/openid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/openid/openid.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/openid/openid.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/openid/openid.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/openid/tests/openid_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/openid/tests/openid_test.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/openid/tests/openid_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/options/options.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/options/options.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/options/options.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/options/options.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/overlay/overlay-child-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/overlay/overlay-child.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/overlay/overlay-child.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/overlay/overlay-parent.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/overlay/overlay-parent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/overlay/overlay.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/overlay/overlay.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/overlay/overlay.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/overlay/overlay.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/overlay/overlay.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/block/tests/themes/block_test_theme/page.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/page.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/templates/page.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/page.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/page.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/pager.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/pager.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/password-hash.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/password.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/password.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/path/path.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/path/path.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/path.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/path/path.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/path/path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/path/path.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/path/path.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/path.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/path_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/path_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/php-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/php-2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/php/php.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/php/php.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/php/php.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/php/php.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/engines/phptemplate/phptemplate.engine" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/poll/poll-bar--block.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/poll/poll-bar.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/poll/poll-results--block.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/poll/poll-results.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/poll/poll-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/poll/poll-vote.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/poll/poll.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/poll/poll.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/poll/poll.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/poll/poll.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/poll/poll.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/poll/poll.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/poll/poll.tokens.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/prefetch.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/color/preview.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/color/preview.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/color/preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/color/preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/color/preview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/color/preview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/print-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/css/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/profile/profile-block.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/profile/profile-listing.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/profile/profile-wrapper.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/profile/profile.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/profile/profile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/profile/profile.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/profile/profile.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/profile/profile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/profile/profile.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/profile/profile.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/profile/profile.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/psr_0_test/psr_0_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/psr_0_test/psr_0_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/query.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/mysql/query.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/pgsql/query.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/sqlite/query.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/rdf/rdf.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/rdf/rdf.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/rdf/rdf.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/rdf/rdf.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/rdf/rdf.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/rdf/tests/rdf_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/rdf/tests/rdf_test.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/rdf/tests/rdf_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/region.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/registry.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/registry.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/requirements1_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/requirements1_test.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/requirements1_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/requirements2_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/requirements2_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/run-tests.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/schema.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/mysql/schema.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/pgsql/schema.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/sqlite/schema.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/schema.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/search-block-form.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/search-result.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/search-results.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/search-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/search.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/search.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/search.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/search.extender.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/search.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/search.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/search.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/search.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/search.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/tests/search_embedded_form.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/tests/search_embedded_form.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/tests/search_extra_type.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/search/tests/search_extra_type.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/select.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/pgsql/select.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database/sqlite/select.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/session.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/session.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/session_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/session_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/seven.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/shortcut/shortcut-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/shortcut/shortcut.admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/shortcut/shortcut.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/shortcut/shortcut.admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/shortcut/shortcut.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/shortcut/shortcut.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/shortcut/shortcut.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/shortcut/shortcut.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/shortcut/shortcut.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/shortcut/shortcut.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/simpletest.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/simpletest.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/simpletest.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/simpletest.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/simpletest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/simpletest.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/simpletest.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/simpletest.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/sql-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/files/sql-2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/filetransfer/ssh.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/standard/standard.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/standard/standard.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/standard/standard.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/stark/stark.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/states.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/statistics/statistics.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/statistics/statistics.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/statistics/statistics.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/statistics/statistics.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/statistics/statistics.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/statistics/statistics.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/statistics/statistics.tokens.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/stream_wrappers.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/css/style-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/style-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/style-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/syslog/syslog.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/syslog/syslog.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/syslog/syslog.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/syslog/syslog.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.admin-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.archiver.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.base-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system.base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.cron.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.mail.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.maintenance.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.menus-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.menus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.messages-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.messages.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.queue.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.tar.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.theme-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.tokens.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/system.updater.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_dependencies_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_dependencies_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_incompatible_core_version_dependencies_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_incompatible_core_version_dependencies_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_incompatible_core_version_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_incompatible_core_version_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_incompatible_module_version_dependencies_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_incompatible_module_version_dependencies_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_incompatible_module_version_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_incompatible_module_version_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/tabledrag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/tableheader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/tableselect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/tablesort.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/tablesort.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/taxonomy/taxonomy-term.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/taxonomy/taxonomy.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/taxonomy/taxonomy.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/taxonomy/taxonomy.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/taxonomy/taxonomy.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/taxonomy/taxonomy.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/taxonomy/taxonomy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/taxonomy/taxonomy.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/taxonomy/taxonomy.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/taxonomy/taxonomy.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/taxonomy/taxonomy.tokens.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/taxonomy_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/taxonomy_test.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/taxonomy_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/themes/test_theme/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/bartik/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/test.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/locale/tests/translations/test.xx.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/themes/test_basetheme/test_basetheme.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/themes/test_subtheme/test_subtheme.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/themes/test_theme/test_theme.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/testing/testing.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/testing/testing.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/testing/testing.profile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/text/text.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/text/text.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/text/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/text/text.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field/modules/text/text.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/garland/theme-settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/system/theme.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/theme.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/theme.maintenance.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/theme.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/theme_test.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/theme_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/theme_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/theme_test.template_test.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/timezone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/token.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/toolbar/toolbar-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/toolbar/toolbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/toolbar/toolbar.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/toolbar/toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/toolbar/toolbar.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/toolbar/toolbar.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/tracker/tracker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/tracker/tracker.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/tracker/tracker.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/tracker/tracker.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/tracker/tracker.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/tracker/tracker.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/translation/translation.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/translation/translation.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/translation/translation.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/translation/translation.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/translation/tests/translation_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/translation/tests/translation_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/trigger/trigger.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/trigger/trigger.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/trigger/trigger.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/trigger/trigger.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/trigger/trigger.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/trigger/trigger.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/trigger/tests/trigger_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/trigger/tests/trigger_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/unicode.entities.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/unicode.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/unicode.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/update-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/update.aggregator.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/update.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/update.authorize.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/update.compare.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/update.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/update.fetch.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/update.field.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/update.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/update.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/update.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/update.manager.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/update.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/update.report.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/update.settings.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/update.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/update.trigger.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/update.user.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update_script_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update_script_test.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update_script_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/update_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/update_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update_test_1.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update_test_1.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update_test_1.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update_test_2.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update_test_2.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update_test_2.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update_test_3.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update_test_3.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update_test_3.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/update_test_basetheme.1_1-sec.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/themes/update_test_basetheme/update_test_basetheme.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/update_test_subtheme.1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/update/tests/themes/update_test_subtheme/update_test_subtheme.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/updater.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/upgrade.comment.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/upgrade.filter.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/upgrade.forum.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/upgrade.locale.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/upgrade.menu.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/upgrade.node.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/upgrade.poll.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/upgrade.taxonomy.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/upgrade.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/upgrade.translatable.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/upgrade.trigger.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/upgrade.upload.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/upgrade/upgrade.user.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/url_alter_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/url_alter_test.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/url_alter_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/user-picture.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/user-profile-category.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/user-profile-item.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/user-profile.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/user-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/user.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/user.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/user.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/user.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/user.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/user.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/user.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/user.permissions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/user.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/user.tokens.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/tests/user_form_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/user/tests/user_form_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/utility.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/vertical-tabs-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/vertical-tabs-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/vertical-tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/seven/vertical-tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/vertical-tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/xmlrpc.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xmlrpc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/xmlrpc.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/xmlrpc_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/simpletest/tests/xmlrpc_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/xmlrpcs.inc" />
+    </list>
+    <ignored path="specschool.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="specschool" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sergolef" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="994" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="specschool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="specschool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="specschool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="web-ide.project.structure" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="002c6470-e18b-4616-9a30-d36647f0d497" name="Default" comment="" />
+      <created>1394908950429</created>
+      <updated>1394908950429</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1920" height="994" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18229167" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="Added drupal files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added drupal files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/authorize.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2430">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
