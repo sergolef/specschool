@@ -420,7 +420,7 @@ h2#site-slogan{ color: #dbdbdb; margin:0 0 16px 0; font-size: 16px; line-height:
 /* -------------------------------------------------- */
 .container { margin: 0 auto; position: relative; width: 940px; }
 
-.one-half,.one-third,.two-third,.one-fourth,.three-fourth,.one-column { float: left; margin-right: 20px; margin-bottom: 20px; }
+.one-half,.one-third,.two-third,.one-fourth,.three-fourth,.one-column { float: left; margin-right: 20px; margin-bottom: 10px; }
 
 .one-half.last,.one-third.last,.two-third.last,.one-fourth.last,.three-fourth.last, .one-fourth.widget-4, .one-fourth.widget-8, .one-fourth.widget-12 { margin-right: 0px; }
 
