@@ -1,4 +1,18 @@
-﻿  
+﻿
+
+.gallery-item {
+    width: 214px;
+    height: 280px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    float: left;
+    overflow: hidden;
+    border: 1px solid #222222;
+    -webkit-box-shadow: 2px 2px 5px 2px #34B489;
+    box-shadow: 2px 2px 5px 2px #34B489;
+    padding: 5px;
+}
 /*-------------------------------------------*/
 /* #Tablet (Portrait)*/
 /*-------------------------------------------*/

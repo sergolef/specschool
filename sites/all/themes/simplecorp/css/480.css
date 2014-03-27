@@ -1,5 +1,19 @@
 ﻿/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
+
+    .gallery-item {
+        border: 1px solid #222222;
+        box-shadow: 2px 2px 5px 2px #34B489;
+        -webkit-box-shadow: 2px 2px 5px 2px #34B489;
+        float: left;
+        height: 235px;
+        margin-bottom: 5px;
+        margin-left: 5px;
+        margin-right: 5px;
+        overflow: hidden;
+        padding: 5px;
+        width: 178px;
+    }
 /*--------------------------------------*/
 /*COLUMNS*/
 /*--------------------------------------*/

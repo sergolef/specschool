@@ -2,107 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="002c6470-e18b-4616-9a30-d36647f0d497" name="Default" comment="Added drupal files">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/default_images/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/default_images/7_0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/default_images/7_0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/default_images/7_0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/images/add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/images/mimetypes/application-octet-stream.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/images/mimetypes/audio-mpeg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/images/mimetypes/audio-x-generic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/images/backgrounds.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/images/buttons-disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/images/buttons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/images/delete.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/images/done.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/images/error.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/images/mimetypes/file-unknown.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/images/icon-feed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/images/mimetypes/image-x-generic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image303.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/image303.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image303.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image307.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image307.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/image307.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image307.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image311.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image311.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image319_0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image319_0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/image319_0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image319_0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image404.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image404.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/image404.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image404.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image454.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image454.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/image454.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image454.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image5821_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image5821_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image5821_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image5851.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image5851.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/image5851.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image5851.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image5901.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image5901.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image5901.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image5951_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image5951_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image5951_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image6051.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image6051.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image6051.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/classic/img/jb001.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/classic/fonts/juicebox.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/classic/fonts/juicebox.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/classic/fonts/juicebox.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/classic/img/spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/images/throbber.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/images/transp50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/images/up_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/images/up_arrow_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/images/video-indicator.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/images/mimetypes/video-x-generic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/CHANGELOG.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/plugins/JuiceboxFormatterViewsStyle.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/includes/JuiceboxGallery.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/includes/JuiceboxGalleryDecorator.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/includes/JuiceboxGalleryDrupal.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/includes/JuiceboxGalleryDrupalInterface.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/includes/JuiceboxGalleryInterface.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/plugins/JuiceboxXmlField.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/plugins/JuiceboxXmlInterface.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/plugins/JuiceboxXmlViewsStyle.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/full.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/js/i18n.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/juicebox.admin.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/juicebox.api.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/juicebox.field.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/juicebox.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/juicebox.install" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/juicebox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/juicebox.module" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/classic/fonts/juicebox.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/themes/juicebox.theme.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/juicebox/css/placeholder_styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/plupload.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/plupload.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/plupload.install" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/plupload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/plupload/plupload.module" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/db_backups/specschool-25.03.2014.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/db_backups/specschool-26.03.2014.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/juicebox/classic/theme.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/specschool.sql" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/local.css" afterPath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/local.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image316.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/image316.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image316.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image4041.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image4041.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image4041.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image419.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image419.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image419.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image4341.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image4341.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image4341.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image4391.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image4391.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image4391.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image444.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/image444.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image444.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image545.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image545.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image545.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/includes/tvi.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/tvi.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/tvi.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/tvi.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/tvi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/tvi.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/includes/tvi.query.inc" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/image311.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image311.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css" afterPath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css" afterPath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css" afterPath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css" afterPath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="specschool.iws" />
@@ -128,7 +63,44 @@
     <favorites_list name="specschool" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="main-css.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="39" selection-start="957" selection-end="957" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="19935">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="768.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="4" selection-start="198" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="480.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="52" selection-start="290" selection-end="290" vertical-scroll-proportion="0.106132075" vertical-offset="0" max-vertical-offset="4260">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="320.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="52" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3810">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -157,9 +129,12 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/views-view--main-features.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/page.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/css/local.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css" />
       </list>
     </option>
   </component>
@@ -201,6 +176,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -331,7 +307,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,8 +315,8 @@
     <property name="options.lastSelected" value="com.jetbrains.php.drupal.settings.DrupalConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -382,9 +357,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19530416" sideWeight="0.5684931" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19743863" sideWeight="0.5684931" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19530416" sideWeight="0.4303653" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19743863" sideWeight="0.4303653" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -415,9 +390,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/local.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="9" selection-start="834" selection-end="842" vertical-scroll-proportion="0.0" vertical-offset="502" max-vertical-offset="1350">
-          <folding />
-        </state>
+        <state line="44" column="9" selection-start="834" selection-end="842" vertical-scroll-proportion="0.0" vertical-offset="502" max-vertical-offset="1350" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css">
@@ -440,21 +413,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.877095" vertical-offset="1008" max-vertical-offset="1545" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3600" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.95454544" vertical-offset="525" max-vertical-offset="4050" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3165" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/node.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="60" column="22" selection-start="2027" selection-end="2030" vertical-scroll-proportion="0.332" vertical-offset="734" max-vertical-offset="1380" />
@@ -475,14 +433,35 @@
         <state line="120" column="16" selection-start="5593" selection-end="5593" vertical-scroll-proportion="0.14673243" vertical-offset="1591" max-vertical-offset="7575" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="422" column="121" selection-start="20656" selection-end="20656" vertical-scroll-proportion="0.35568863" vertical-offset="6033" max-vertical-offset="19740" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/local.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="9" selection-start="834" selection-end="842" vertical-scroll-proportion="0.2134434" vertical-offset="479" max-vertical-offset="1350">
+        <state line="44" column="9" selection-start="834" selection-end="842" vertical-scroll-proportion="0.2134434" vertical-offset="479" max-vertical-offset="1350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="4" selection-start="198" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="39" selection-start="957" selection-end="957" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="19935">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="52" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="52" selection-start="290" selection-end="290" vertical-scroll-proportion="0.106132075" vertical-offset="0" max-vertical-offset="4260">
           <folding />
         </state>
       </provider>

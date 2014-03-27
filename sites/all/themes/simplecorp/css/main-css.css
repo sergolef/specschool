@@ -18,7 +18,19 @@
 */
 @import url(http://fonts.googleapis.com/css?family=Dosis:200,400,500,700);
 
-
+.gallery-item {
+    width: 203px;
+    height: 280px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    float: left;
+    overflow: hidden;
+    border: 1px solid #222222;
+    -webkit-box-shadow: 2px 2px 5px 2px #34B489;
+    box-shadow: 2px 2px 5px 2px #34B489;
+    padding: 5px;
+}
 
 /* ---------------------------------------------------------------------- */
 /* 01-   CLEARFIX 
@@ -1308,3 +1320,4 @@ text-decoration: none; border-radius: 5px 5px 0px 0; -moz-border-radius: 5px 5px
 ul.primary li.active a { background-color: #fff; border: 1px solid #bbb; border-bottom: 1px solid #fff; }
 
 ul.primary li a:hover { background-color: #eee; border-color: #ccc; border-bottom-color: #eee; }
+
