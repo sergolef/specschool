@@ -8,7 +8,7 @@
     margin-bottom: 5px;
     float: left;
     overflow: hidden;
-    border: 1px solid #222222;
+    border: 1px solid #D8D5CD;
     -webkit-box-shadow: 2px 2px 5px 2px #34B489;
     box-shadow: 2px 2px 5px 2px #34B489;
     padding: 5px;
@@ -92,9 +92,9 @@ img.intro-img { margin-left:-20px!important; max-width:748px!important; max-heig
 /*--------------------------------------*/
 /*HOMEPAGE PORTFOLIO CAROUSEL*/	
 /*--------------------------------------*/
-ul#projects-carousel li {  width:158px; }
+.jcarousel-view--test-carousel--block li {  width:158px; }
 
-ul#projects-carousel li .item-content{  width:158px; }
+.jcarousel-view--test-carousel--block li .item-content{  width:158px; }
 
 /*--------------------------------------*/
 /*OTHER STUFF*/

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the lasy_news_carousel feature.
+ */
+
+include_once 'lasy_news_carousel.features.inc';

@@ -356,6 +356,8 @@ function simplecorp_breadcrumb($variables){
 }
 
 
+
+
 /**
  * Add files for custom buttons.
  */
@@ -480,6 +482,8 @@ function simplecorp_preprocess_comment(&$variables) {
  * Implements hook_preprocess_html().
  */
 function simplecorp_preprocess_html(&$vars) {
+
+    drupal_add_css('//fonts.googleapis.com/css?family=Prosto+One&subset=latin,cyrillic', array('group' => CSS_THEME));
 	$vars['rdf'] = new stdClass;
 
 	if (module_exists('rdf')) {

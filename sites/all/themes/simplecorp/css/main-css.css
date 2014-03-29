@@ -26,10 +26,12 @@
     margin-bottom: 10px;
     float: left;
     overflow: hidden;
-    border: 1px solid #222222;
+    border: 1px solid #D8D5CD;
     -webkit-box-shadow: 2px 2px 5px 2px #34B489;
     box-shadow: 2px 2px 5px 2px #34B489;
     padding: 5px;
+    background: none repeat scroll 0 0 #F8F9F9;
+
 }
 
 /* ---------------------------------------------------------------------- */
@@ -663,23 +665,24 @@ background: url("../images/twitter-feed.png") left bottom  no-repeat; }
 /* ---------------------------------------------------------------------- */
 /* 06- HOMEPAGE PORTFOLIO CAROUSEL, PORTFOLIO ITEM & BANNER LAYOUT
 /* ---------------------------------------------------------------------- */
-ul#projects-carousel { overflow: hidden; position: relative; list-style: none; margin: 0; padding: 25px 0 0 0; display: none; }
+.jcarousel-view--test-carousel--block { overflow: hidden; position: relative; list-style: none; margin: 0; padding: 25px 0 0 0; display: block; }
 
-ul#projects-carousel li { float: left; background: #f8f9f9; width: 220px; height: auto; margin-right: 20px; padding: 0; }
+.jcarousel-view--test-carousel--block li { float: left; background: #f8f9f9; width: 220px; height: auto; margin-right: 20px; padding: 0; }
 
-ul#projects-carousel li .item-content { background: #615951; float: left; width: 220px; text-align: center; padding: 0px 0 15px 0; height: auto; }
+.jcarousel-view--test-carousel--block li .item-content { background: #222222; float: left; width: 220px; text-align: center; padding: 0px 0 15px 0; height: auto; }
 
 .description { padding: 15px; font-size: 12px; height: 50px; }
+.description span p { font-size: 9px; font-weight: lighter; text-align: justify;}
 
-ul#projects-carousel li .item-content:hover { background: #9dcedf; }
+/*.jcarousel-view--test-carousel--block li .item-content:hover { background: #9dcedf; }*/
 
-ul#projects-carousel li .item-content p { margin: 0; padding: 0; font-weight: 800; color: #FFF; }
+.jcarousel-view--test-carousel--block li .item-content p { margin: 0; padding: 0; font-weight: 800; color: #FFF; }
 
-ul#projects-carousel li .item-content p a { margin: 0; padding: 0; font-weight: 800; color: #FFF; }
+.jcarousel-view--test-carousel--block li .item-content p a { margin: 0; padding: 0; font-weight: 800; color: #FFF; }
 
-ul#projects-carousel li .item-content span { font-style: italic; color: #FFF; }
+.jcarousel-view--test-carousel--block li .item-content span { font-style: italic; color: #FFF; }
 
-ul#projects-carousel li  img { width: 100%; height: auto; padding: 0; margin: 0; }
+.jcarousel-view--test-carousel--block li  img { width: 100%; height: auto; padding: 0; margin: 0; }
 
 .jcarousel-container { margin: 0px -20px 0px 0; max-width: 100%; padding: 0px 0 0  0; }
 
@@ -701,14 +704,14 @@ ul#projects-carousel li  img { width: 100%; height: auto; padding: 0; margin: 0;
 
 .jcarousel-clip { overflow: hidden; width: 100%; }
 
-.jcarousel-next-disabled,
+/*.jcarousel-next-disabled,
 .jcarousel-next-disabled:hover,
 .jcarousel-next-disabled:focus,
 .jcarousel-next-disabled:active,
 .jcarousel-prev-disabled,
 .jcarousel-prev-disabled:hover,
 .jcarousel-prev-disabled:focus,
-.jcarousel-prev-disabled:active { background-color: #615951; cursor: auto; box-shadow: inset0 0 7px #46403a; -moz-box-shadow: inset 0 0 7px #46403a; -webkit-box-shadow: inset 0 0 7px #46403a; }
+.jcarousel-prev-disabled:active { background-color: #615951; cursor: auto; box-shadow: inset0 0 7px #46403a; -moz-box-shadow: inset 0 0 7px #46403a; -webkit-box-shadow: inset 0 0 7px #46403a; }*/
 
 .portfolio-item-hover-content,
 .proj-img1 { position: relative; overflow: hidden; }
@@ -723,8 +726,8 @@ left: 45%; margin-top: -55px; z-index: 10; text-indent: -9999px; }
 .portfolio-item-hover-content,
 .proj-img1 { position: relative; overflow: hidden; }
 
-.portfolio-item-hover-content .hover-options { display: block; font-style: normal; position: absolute; width: 100%; height: 100%; z-index: 9; top: 0; left: 0; 
-background: #fff url("../images/portfolio-hover-bg.png") repeat; opacity: 0; filter: alpha(opacity:0); cursor: pointer; }
+/*.portfolio-item-hover-content .hover-options { display: block; font-style: normal; position: absolute; width: 100%; height: 100%; z-index: 9; top: 0; left: 0;
+background: #fff url("../images/portfolio-hover-bg.png") repeat; opacity: 0; filter: alpha(opacity:0); cursor: pointer; }*/
 
 #banner-inside, #slider-container { border-bottom: 1px solid #E1E1E1; margin-bottom: 30px; padding-bottom: 35px; }
 

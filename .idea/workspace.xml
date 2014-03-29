@@ -2,42 +2,237 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="002c6470-e18b-4616-9a30-d36647f0d497" name="Default" comment="Added drupal files">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image316.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/image316.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image316.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image4041.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image4041.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image4041.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image419.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image419.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image419.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image4341.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image4341.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image4341.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image4391.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image4391.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image4391.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image444.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/image444.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image444.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/image545.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/juicebox_square_thumbnail/public/image545.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image545.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/includes/tvi.admin.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/tvi.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/tvi.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/tvi.install" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/tvi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/tvi.module" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/tvi/includes/tvi.query.inc" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/image311.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/image311.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/AbstractClass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/AbstractClass_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/AbstractMethod.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/AbstractPrivateClass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/AbstractPrivateClass_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/AbstractPrivateMethod.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Class.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Class_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Constant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Constructor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Destructor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Function.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Global.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Index.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Interface.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Interface_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/L.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Lminus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Lplus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Method.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Page.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Page_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/PrivateClass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/PrivateClass_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/PrivateMethod.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/PrivateVariable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/StaticMethod.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/StaticVariable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Tminus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Tplus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/Variable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/arrow-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/arrow-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/skins/blue/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/skins/default/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/skins/green/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/skins/orange/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/blank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/class_folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/skins/white/collapsed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/skins/white/dotted.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/skins/white/empty.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/skins/white/expanded.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/function_folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_2UYzxJ.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_2UYzxJ.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_52OprS.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_52OprS.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_CYHikb.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_CYHikb.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_D9VPcp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_D9VPcp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_GqGU2y.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_GqGU2y.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_IBViug.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_IBViug.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_O5aAug.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_O5aAug.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_XPjOE5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_XPjOE5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_ZgJJLK.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_ZgJJLK.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_awmDJG.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_awmDJG.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_dTYp4P.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_dTYp4P.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_ddpQ4e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_ddpQ4e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_eU0Smm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_eU0Smm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_ilN89U.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_ilN89U.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_nHPB1f.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_nHPB1f.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_oM6psP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_oM6psP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_wJeRxx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_wJeRxx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_xffeTD.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_xffeTD.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/imagefield_ymtt6A.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/last_news_style/public/imagefield_ymtt6A.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/next_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/next_button_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/package.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/package_folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/previous_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/previous_button_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/private_class_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/tutorial.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/tutorial_folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/images/up_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/API.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/CHANGELOG.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/README_devel_node_access.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/TODO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/Krumo/_class.krumo.php.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/banner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/blank.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/class.krumo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/lib/classTree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/classtrees_Krumo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel.drush.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel.mail.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel.rules.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/develDrushTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_generate/devel_generate.drush.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_generate/devel_generate.fields.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_generate/devel_generate.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_generate/devel_generate.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_generate/devel_generate.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_generate/devel_generate.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_generate/devel_generate_batch.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_krumo_path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_node_access.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_node_access.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_node_access.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_node_access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_node_access.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/elementindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/elementindex_Krumo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/errors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/theme/features-admin-components.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/features.admin.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/features.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/includes/features.block.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/includes/features.context.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/features.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/includes/features.ctools.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/features.drush.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/features.export.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/includes/features.features.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/includes/features.field.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/includes/features.filter.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/includes/features.image.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/features.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/features.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/features.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/includes/features.locale.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/includes/features.menu.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/features.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/includes/features.node.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/includes/features.taxonomy.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/tests/features.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/includes/features.user.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/tests/features_test/features_test.features.field_base.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/tests/features_test/features_test.features.field_instance.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/tests/features_test/features_test.features.filter.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/tests/features_test/features_test.features.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/tests/features_test/features_test.features.taxonomy.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/tests/features_test/features_test.features.user_permission.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/tests/features_test/features_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/tests/features_test/features_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/tests/features_test/features_test.views_default.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_generate/file.devel_generate.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_generate/image.devel_generate.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/jquery-1.4.4-uncompressed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/jquery.treeTable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/jquery.treeTable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/Krumo/krumo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/krumo.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/krumo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/lasy_news_carousel/lasy_news_carousel.features.field_base.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/lasy_news_carousel/lasy_news_carousel.features.field_instance.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/lasy_news_carousel/lasy_news_carousel.features.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/lasy_news_carousel/lasy_news_carousel.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/lasy_news_carousel/lasy_news_carousel.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/lasy_news_carousel/lasy_news_carousel.views_default.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/li_Krumo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_generate/list.devel_generate.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_generate/number.devel_generate.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/packages.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/ric_INSTALL.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/ric_LICENSE.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/ric_README.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/ric_TODO.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/ric_VERSION.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/runtests.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/skins/blue/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/skins/default/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/skins/green/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/skins/orange/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/skins/white/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/krumo/docs/media/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_generate/taxonomy.devel_generate.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/devel/devel_generate/text.devel_generate.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/features/theme/theme.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/token.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/token.drush.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/token.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/token.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/token.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/token.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/token.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/token.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/token.tokens.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/tests/token_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/token/tests/token_test.module" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css" afterPath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css" afterPath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css" afterPath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css" afterPath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/simplecorp/page.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/simplecorp/page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/simplecorp/template.php" afterPath="$PROJECT_DIR$/sites/all/themes/simplecorp/template.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="specschool.iws" />
@@ -67,7 +262,7 @@
       <file leaf-file-name="main-css.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="39" selection-start="957" selection-end="957" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="19935">
+            <state line="667" column="0" selection-start="31838" selection-end="31875" vertical-scroll-proportion="-6.8846154" vertical-offset="9826" max-vertical-offset="19980">
               <folding />
             </state>
           </provider>
@@ -76,25 +271,43 @@
       <file leaf-file-name="768.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="4" selection-start="198" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3375">
+            <state line="96" column="0" selection-start="3545" selection-end="3545" vertical-scroll-proportion="-11.692307" vertical-offset="1136" max-vertical-offset="3375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="480.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="480.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="52" selection-start="290" selection-end="290" vertical-scroll-proportion="0.106132075" vertical-offset="0" max-vertical-offset="4260">
+            <state line="108" column="41" selection-start="3753" selection-end="3753" vertical-scroll-proportion="-25.538462" vertical-offset="956" max-vertical-offset="4260">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="320.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="page.tpl.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/page.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="212" column="0" selection-start="7627" selection-end="7627" vertical-scroll-proportion="-6.875" vertical-offset="3015" max-vertical-offset="4230">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="320.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="52" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3810">
+            <state line="95" column="41" selection-start="3747" selection-end="3747" vertical-scroll-proportion="0.33333334" vertical-offset="1151" max-vertical-offset="3810">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="local.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/local.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="9" selection-start="834" selection-end="842" vertical-scroll-proportion="-10.538462" vertical-offset="386" max-vertical-offset="1350">
               <folding />
             </state>
           </provider>
@@ -129,12 +342,12 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/views-view--main-features.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/page.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/css/local.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/page.tpl.php" />
       </list>
     </option>
   </component>
@@ -357,9 +570,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19743863" sideWeight="0.5684931" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19903949" sideWeight="0.5673516" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19743863" sideWeight="0.4303653" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19903949" sideWeight="0.43150684" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -388,6 +601,20 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="52" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="4260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="52" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="3810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/local.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="9" selection-start="834" selection-end="842" vertical-scroll-proportion="0.0" vertical-offset="502" max-vertical-offset="1350" />
@@ -428,40 +655,44 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-13.678363" vertical-offset="7017" max-vertical-offset="7530" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/page.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="16" selection-start="5593" selection-end="5593" vertical-scroll-proportion="0.14673243" vertical-offset="1591" max-vertical-offset="7575" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/local.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="9" selection-start="834" selection-end="842" vertical-scroll-proportion="0.2134434" vertical-offset="479" max-vertical-offset="1350" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="4" selection-start="198" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3375">
+        <state line="44" column="9" selection-start="834" selection-end="842" vertical-scroll-proportion="-10.538462" vertical-offset="386" max-vertical-offset="1350">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="39" selection-start="957" selection-end="957" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="19935">
+        <state line="667" column="0" selection-start="31838" selection-end="31875" vertical-scroll-proportion="-6.8846154" vertical-offset="9826" max-vertical-offset="19980">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="52" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3810">
+        <state line="96" column="0" selection-start="3545" selection-end="3545" vertical-scroll-proportion="-11.692307" vertical-offset="1136" max-vertical-offset="3375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="52" selection-start="290" selection-end="290" vertical-scroll-proportion="0.106132075" vertical-offset="0" max-vertical-offset="4260">
+        <state line="108" column="41" selection-start="3753" selection-end="3753" vertical-scroll-proportion="-25.538462" vertical-offset="956" max-vertical-offset="4260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="212" column="0" selection-start="7627" selection-end="7627" vertical-scroll-proportion="-6.875" vertical-offset="3015" max-vertical-offset="4230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="41" selection-start="3747" selection-end="3747" vertical-scroll-proportion="0.33333334" vertical-offset="1151" max-vertical-offset="3810">
           <folding />
         </state>
       </provider>
