@@ -15,6 +15,11 @@
 .description {
     height: 70px;
 }
+
+.site_name{
+    font-family: Prosto One;
+    font-size:18px;
+}
 /*-------------------------------------------*/
 /* #Tablet (Portrait)*/
 /*-------------------------------------------*/
