@@ -9,9 +9,11 @@
     float: left;
     overflow: hidden;
     border: 1px solid #D8D5CD;
-    -webkit-box-shadow: 2px 2px 5px 2px #34B489;
-    box-shadow: 2px 2px 5px 2px #34B489;
     padding: 5px;
+}
+
+.description {
+    height: 70px;
 }
 /*-------------------------------------------*/
 /* #Tablet (Portrait)*/

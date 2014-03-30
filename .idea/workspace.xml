@@ -1,7 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="002c6470-e18b-4616-9a30-d36647f0d497" name="Default" comment="Added drupal files" />
+    <list default="true" id="002c6470-e18b-4616-9a30-d36647f0d497" name="Default" comment="Added drupal files">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/arrow-active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/arrow-down-light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/bg-content-modal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/bg-shade-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/bg-shade-light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/bg-shade-medium.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/bg-shade-white-lrg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/pane/pane_rounded_shadow/box-color.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/region/region_rounded_shadow/box-color.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/pane/pane_rounded_shadow/box-shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/region/region_rounded_shadow/box-shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/styles/corners/corner-bits.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/images/dragger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/flexible/flexible.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/go-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/go-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/go-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/flexible/grippie-vertical.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/images/icon-add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/icon-addcontent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/icon-cache.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/images/icon-change-layout.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/images/icon-close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/icon-configure.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/images/icon-configure.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/icon-delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/images/icon-delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/icon-draggable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/images/icon-draggable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/icon-hidepane.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/images/icon-save.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/images/icon-settings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/icon-showpane.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/images/icon-style.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/pane/pane_plain_box/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/pane/pane_rounded_shadow/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/region/region_plain_box/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/region/region_rounded_shadow/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_mini/plugins/content_types/icon_panels_mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/images/loading-small.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/no-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/onecol/onecol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/portlet-collapsed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/portlet-expanded.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/screenshot-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/screenshot-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/screenshot-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/screenshot-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/styles/corners/shadow-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/styles/corners/shadow-l.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/styles/corners/shadow-r.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/styles/corners/shadow-t.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/sky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/threecol_25_50_25/threecol_25_50_25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/threecol_25_50_25_stacked/threecol_25_50_25_stacked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/threecol_33_34_33/threecol_33_34_33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/threecol_33_34_33_stacked/threecol_33_34_33_stacked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/throbber.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/twocol/twocol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/twocol_bricks/twocol_bricks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/twocol_stacked/twocol_stacked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/images/user-trash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/ctools/css/0c133282bd2ce2430032f96b204393da.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/ctools/css/1962310b6c35d6d94a5e87a11ce0730c.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/CHANGELOG.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/KNOWN_ISSUES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/i18n_panels/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/UPGRADE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/includes/add-content.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/help/api.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/styles/block.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/includes/callbacks.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/includes/common.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/styles/default.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/includes/display-edit.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/includes/display-layout.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/help/display.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/js/display_editor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/display_renderers/editor.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/ctools/css/f15dee0064372ee250f74ec9a5104943.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/flexible/flexible-admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/flexible/flexible-admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/flexible/flexible.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/flexible/flexible.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/i18n_panels/i18n_panels.i18n.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/i18n_panels/i18n_panels.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/i18n_panels/i18n_panels.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/i18n_panels/i18n_panels.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/plugins/display_renderers/ipe.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/page_wizards/landing_page.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/js/layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/includes/legacy.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/styles/list.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/styles/naked.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/onecol/onecol.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/onecol/onecol.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/includes/page-wizard.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/pane/pane_plain_box/pane-plain-box.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/pane/pane_plain_box/pane-plain-box.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/pane/pane_rounded_shadow/pane-rounded-shadow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/pane/pane_rounded_shadow/pane-rounded-shadow.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/help/pane.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/pane/pane_plain_box/pane_plain_box.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/pane/pane_rounded_shadow/pane_rounded_shadow.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/task_handlers/panel_context.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/templates/panels-add-content-link.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/templates/panels-add-content-modal.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/js/panels-base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/templates/panels-dashboard-block.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/templates/panels-dashboard-link.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/css/panels-dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/templates/panels-dashboard.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/onecol/panels-onecol.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/templates/panels-pane.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/styles/corners/panels-rounded-corners-box.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/threecol_25_50_25_stacked/panels-threecol-25-50-25-stacked.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/threecol_25_50_25/panels-threecol-25-50-25.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/threecol_33_34_33_stacked/panels-threecol-33-34-33-stacked.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/threecol_33_34_33/panels-threecol-33-34-33.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/twocol_bricks/panels-twocol-bricks.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/twocol_stacked/panels-twocol-stacked.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/twocol/panels-twocol.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/css/panels.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/help/panels.help.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/includes/panels.pipelines.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/views/panels.views.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/css/panels_admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/css/panels_dnd.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/css/panels_ipe-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/css/panels_ipe.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/panels_ipe.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/js/panels_ipe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/panels_ipe.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/includes/panels_ipe.pipelines.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/export_ui/panels_layouts.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/export_ui/panels_layouts_ui.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_mini/plugins/content_types/panels_mini.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_mini/plugins/export_ui/panels_mini.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_mini/panels_mini.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_mini/panels_mini.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_mini/panels_mini.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_mini/plugins/export_ui/panels_mini_ui.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_node/panels_node.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_node/panels_node.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_node/panels_node.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/css/panels_page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/display_renderers/panels_renderer_editor.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/panels_ipe/plugins/display_renderers/panels_renderer_ipe.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/display_renderers/panels_renderer_simple.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/display_renderers/panels_renderer_standard.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/views/panels_views_plugin_row_fields.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/help/plugins-layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/help/plugins-style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/includes/plugins.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/region/region_plain_box/region-plain-box.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/region/region_plain_box/region-plain-box.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/region/region_rounded_shadow/region-rounded-shadow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/region/region_rounded_shadow/region-rounded-shadow.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/region/region_plain_box/region_plain_box.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/style_bases/region/region_rounded_shadow/region_rounded_shadow.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/styles/corners/rounded_corners.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/cache/simple.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/display_renderers/simple.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/display_renderers/standard.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/styles/stylizer.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/threecol_25_50_25/threecol_25_50_25.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/threecol_25_50_25/threecol_25_50_25.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/threecol_25_50_25_stacked/threecol_25_50_25_stacked.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/threecol_25_50_25_stacked/threecol_25_50_25_stacked.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/threecol_33_34_33/threecol_33_34_33.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/threecol_33_34_33/threecol_33_34_33.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/threecol_33_34_33_stacked/threecol_33_34_33_stacked.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/threecol_33_34_33_stacked/threecol_33_34_33_stacked.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/twocol/twocol.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/twocol/twocol.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/twocol_bricks/twocol_bricks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/twocol_bricks/twocol_bricks.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/twocol_stacked/twocol_stacked.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/modules/distrib/panels/plugins/layouts/twocol_stacked/twocol_stacked.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css" afterPath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css" afterPath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css" afterPath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css" afterPath="$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="specschool.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +224,7 @@
       <file leaf-file-name="main-css.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="667" column="0" selection-start="31838" selection-end="31875" vertical-scroll-proportion="-6.8846154" vertical-offset="9826" max-vertical-offset="19980">
+            <state line="28" column="30" selection-start="868" selection-end="868" vertical-scroll-proportion="-16.153847" vertical-offset="0" max-vertical-offset="19950">
               <folding />
             </state>
           </provider>
@@ -38,7 +233,7 @@
       <file leaf-file-name="768.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="0" selection-start="3545" selection-end="3545" vertical-scroll-proportion="-11.692307" vertical-offset="1136" max-vertical-offset="3375">
+            <state line="10" column="30" selection-start="193" selection-end="193" vertical-scroll-proportion="-5.769231" vertical-offset="0" max-vertical-offset="3405">
               <folding />
             </state>
           </provider>
@@ -47,7 +242,7 @@
       <file leaf-file-name="480.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="41" selection-start="3753" selection-end="3753" vertical-scroll-proportion="-25.538462" vertical-offset="956" max-vertical-offset="4260">
+            <state line="4" column="34" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4260">
               <folding />
             </state>
           </provider>
@@ -56,25 +251,25 @@
       <file leaf-file-name="page.tpl.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/page.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="212" column="0" selection-start="7627" selection-end="7627" vertical-scroll-proportion="-6.875" vertical-offset="3015" max-vertical-offset="4230">
+            <state line="212" column="0" selection-start="7627" selection-end="7627" vertical-scroll-proportion="0.0" vertical-offset="3015" max-vertical-offset="4230">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="320.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="320.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="41" selection-start="3747" selection-end="3747" vertical-scroll-proportion="0.33333334" vertical-offset="1151" max-vertical-offset="3810">
+            <state line="7" column="34" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3825">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="local.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="local.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/local.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="9" selection-start="834" selection-end="842" vertical-scroll-proportion="-10.538462" vertical-offset="386" max-vertical-offset="1350">
+            <state line="84" column="22" selection-start="1778" selection-end="1778" vertical-scroll-proportion="0.90088105" vertical-offset="442" max-vertical-offset="1350">
               <folding />
             </state>
           </provider>
@@ -110,11 +305,11 @@
       <list>
         <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/views-view--main-features.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/css/local.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/page.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css" />
-        <option value="$PROJECT_DIR$/sites/all/themes/simplecorp/page.tpl.php" />
       </list>
     </option>
   </component>
@@ -128,7 +323,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1920" />
-    <option name="height" value="994" />
+    <option name="height" value="1054" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -295,8 +490,8 @@
     <property name="options.lastSelected" value="com.jetbrains.php.drupal.settings.DrupalConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -329,7 +524,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="994" extended-state="0" />
+    <frame x="0" y="22" width="1920" height="1054" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951945" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -337,9 +532,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19903949" sideWeight="0.5673516" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20117396" sideWeight="0.5673077" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19903949" sideWeight="0.43150684" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20117396" sideWeight="0.43162394" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -422,44 +617,44 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-13.678363" vertical-offset="7017" max-vertical-offset="7530" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/local.css">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/page.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="9" selection-start="834" selection-end="842" vertical-scroll-proportion="-10.538462" vertical-offset="386" max-vertical-offset="1350">
+        <state line="212" column="0" selection-start="7627" selection-end="7627" vertical-scroll-proportion="0.0" vertical-offset="3015" max-vertical-offset="4230">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/main-css.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="667" column="0" selection-start="31838" selection-end="31875" vertical-scroll-proportion="-6.8846154" vertical-offset="9826" max-vertical-offset="19980">
+        <state line="28" column="30" selection-start="868" selection-end="868" vertical-scroll-proportion="-16.153847" vertical-offset="0" max-vertical-offset="19950">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/768.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="0" selection-start="3545" selection-end="3545" vertical-scroll-proportion="-11.692307" vertical-offset="1136" max-vertical-offset="3375">
+        <state line="10" column="30" selection-start="193" selection-end="193" vertical-scroll-proportion="-5.769231" vertical-offset="0" max-vertical-offset="3405">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/480.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="41" selection-start="3753" selection-end="3753" vertical-scroll-proportion="-25.538462" vertical-offset="956" max-vertical-offset="4260">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/page.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="212" column="0" selection-start="7627" selection-end="7627" vertical-scroll-proportion="-6.875" vertical-offset="3015" max-vertical-offset="4230">
+        <state line="4" column="34" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4260">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/320.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="41" selection-start="3747" selection-end="3747" vertical-scroll-proportion="0.33333334" vertical-offset="1151" max-vertical-offset="3810">
+        <state line="7" column="34" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/simplecorp/css/local.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="22" selection-start="1778" selection-end="1778" vertical-scroll-proportion="0.90088105" vertical-offset="442" max-vertical-offset="1350">
           <folding />
         </state>
       </provider>

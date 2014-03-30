@@ -27,8 +27,6 @@
     float: left;
     overflow: hidden;
     border: 1px solid #D8D5CD;
-    -webkit-box-shadow: 2px 2px 5px 2px #34B489;
-    box-shadow: 2px 2px 5px 2px #34B489;
     padding: 5px;
     background: none repeat scroll 0 0 #F8F9F9;
 
@@ -667,20 +665,20 @@ background: url("../images/twitter-feed.png") left bottom  no-repeat; }
 /* ---------------------------------------------------------------------- */
 .jcarousel-view--test-carousel--block { overflow: hidden; position: relative; list-style: none; margin: 0; padding: 25px 0 0 0; display: block; }
 
-.jcarousel-view--test-carousel--block li { float: left; background: #f8f9f9; width: 220px; height: auto; margin-right: 20px; padding: 0; }
+.jcarousel-view--test-carousel--block li { float: left; background: #f8f9f9; width: 220px; height: auto; margin-right: 20px; padding: 0; border: 1px solid #DBD8D1;}
 
-.jcarousel-view--test-carousel--block li .item-content { background: #222222; float: left; width: 220px; text-align: center; padding: 0px 0 15px 0; height: auto; }
+.jcarousel-view--test-carousel--block li .item-content {  float: left; text-align: center; padding: 0px 0 15px 0; height: auto; }
 
-.description { padding: 15px; font-size: 12px; height: 50px; }
-.description span p { font-size: 9px; font-weight: lighter; text-align: justify;}
+.description { padding: 10px; font-size: 12px; height: 50px; }
+.description span p { font-size: 9px; font-weight: lighter; text-align: justify; font-style: normal;}
 
 /*.jcarousel-view--test-carousel--block li .item-content:hover { background: #9dcedf; }*/
 
-.jcarousel-view--test-carousel--block li .item-content p { margin: 0; padding: 0; font-weight: 800; color: #FFF; }
+.jcarousel-view--test-carousel--block li .item-content p { margin: 0; padding: 0; font-weight: 400; color: #000; }
 
-.jcarousel-view--test-carousel--block li .item-content p a { margin: 0; padding: 0; font-weight: 800; color: #FFF; }
+.jcarousel-view--test-carousel--block li .item-content p a { margin: 0; padding: 0; font-weight: 400; color: #000; }
 
-.jcarousel-view--test-carousel--block li .item-content span { font-style: italic; color: #FFF; }
+.jcarousel-view--test-carousel--block li .item-content span {  color: #000; }
 
 .jcarousel-view--test-carousel--block li  img { width: 100%; height: auto; padding: 0; margin: 0; }
 

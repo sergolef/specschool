@@ -6,8 +6,6 @@
 
     .gallery-item {
         border: 1px solid #D8D5CD;
-        box-shadow: 2px 2px 5px 2px #34B489;
-        -webkit-box-shadow: 2px 2px 5px 2px #34B489;
         float: left;
         height: 274px;
         margin-bottom: 10px;
@@ -91,9 +89,12 @@ img.intro-img { margin-left: -20px!important; max-width: 320px!important; max-he
 
 .button.huge { padding: 10px 20px; font-size: 14px; color: #FFF!important; font-weight: bold; }
 
-    .jcarousel-view--test-carousel--block li {   width: 280px; }
+    /*--------------------------------------*/
+    /*HOMEPAGE PORTFOLIO CAROUSEL*/
+    /*--------------------------------------*/
+    .jcarousel-view--test-carousel--block li {  width:280px; }
 
-    .jcarousel-view--test-carousel--block li .item-content {   width: 280px; }
+    .jcarousel-view--test-carousel--block li .item-content{  width:280px; }
 
 .flex-caption h2 { color: #aad5e3; font-size: 23px; text-shadow: none; }
 
