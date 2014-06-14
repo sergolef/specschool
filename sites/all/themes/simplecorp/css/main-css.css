@@ -1333,3 +1333,7 @@ ul.primary li.active a { background-color: #fff; border: 1px solid #bbb; border-
 
 ul.primary li a:hover { background-color: #eee; border-color: #ccc; border-bottom-color: #eee; }
 
+.main-material-text{
+    color: #34B489;
+}
+
