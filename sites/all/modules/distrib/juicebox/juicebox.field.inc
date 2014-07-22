@@ -9,15 +9,44 @@
 
 
 /**
+ * Implements hook_field_display_alter().
+ *
+ * Unlike most hook implementations in this file this one is "global" (it's not
+ * invoked only for this formatter).
+ */
+function juicebox_field_display_alter(&$display, $context) {
+  // If this display is related to a Juicebox formatter we add some additional
+  // metadata that the formatter can use. Most notably we add the actual
+  // view mode name that this display relates to. Normally formatters don't need
+  // to know this contextual info (and should not change their behavior based
+  // on anything other than the raw configured display settings), but the
+  // Juicebox case is unique.
+  if (isset($display['type']) && $display['type'] == 'juicebox_formatter') {
+    $display['juicebox_vm'] = $context['view_mode'];
+    // Also, if this is a search_result display we need to flag the fact that
+    // it's incompatible with the Juicebox javascript. Adding the Juicebox
+    // javascript to a search result output will lead to errors. See issue
+    // #2217791. Other incompatible view modes could be added here if needed.
+    if ($context['view_mode'] == 'search_result') {
+      $display['juicebox_vm_incompatible'] = TRUE;
+    }
+  }
+}
+
+
+/**
  * Implements hook_field_formatter_info().
  *
- * Add juicebox_formatter formatter.
+ * Add juicebox_formatter formatter. Note that this hook is only fired on cache
+ * updates to set defaults.
  */
 function juicebox_field_formatter_info() {
   // Get the base settings. This function may be called while clearing caches
   // so let's be extra careful about catching any errors gracefully.
   try {
-    $base_settings = juicebox()->confBaseOptions();
+    $juicebox = juicebox('field');
+    $base_settings = $juicebox->confBaseOptions();
+    $library = $juicebox->library;
   }
   catch (Exception $e) {
     $message = 'Exception fetching base configuration options for Juicebox field formatter: !message in %function (line %line of %file).';
@@ -30,10 +59,12 @@ function juicebox_field_formatter_info() {
       'description' => t('Style groups of images or files as a Juicebox gallery.'),
       'field types' => array('image', 'file'),
       'settings' => array_merge($base_settings, array(
-        'image_style' => '',
+        // If the library supports multi-size we can default to that for the
+        // main image, otherwise use the "medium" style.
+        'image_style' => (!empty($library['version']) && !in_array('juicebox_multisize_image_style', $library['disallowed_conf'])) ? 'juicebox_multisize' : 'juicebox_medium',
         'thumb_style' => 'juicebox_square_thumbnail',
-        'caption_source' => 'alt',
-        'title_source' => 'title',
+        'caption_source' => '',
+        'title_source' => '',
       )),
     ),
   );
@@ -45,6 +76,8 @@ function juicebox_field_formatter_info() {
  * Implements hook_field_formatter_settings_form().
  */
 function juicebox_field_formatter_settings_form($field, $instance, $view_mode, $form, &$form_state) {
+  // We need a Juicbox object to fetch some common configuration details.
+  $juicebox = juicebox('field');
   // If this formatter is being used outside the context of a normal field
   // display (e.g., within individual view rows, panels, as a file entity
   // display, etc.) we display a message to discourage and prevent it's use.
@@ -69,7 +102,6 @@ function juicebox_field_formatter_settings_form($field, $instance, $view_mode, $
   // Get available title and caption sources.
   $text_sources = _juicebox_field_text_sources($instance);
   // Get available image style presets
-  $presets = image_style_options(FALSE);
   $settings = $instance['display'][$view_mode]['settings'];
   // Add the field-formatter-specific elements.
   $form['image_style'] = array(
@@ -77,7 +109,7 @@ function juicebox_field_formatter_settings_form($field, $instance, $view_mode, $
     '#title' => t('Main Image Style'),
     '#default_value' => $settings['image_style'],
     '#description' => t('The style formatter for the main image.'),
-    '#options' => $presets,
+    '#options' => $juicebox->confBaseStylePresets(),
     '#empty_option' => t('None (original image)'),
   );
   $form['thumb_style'] = array(
@@ -85,7 +117,7 @@ function juicebox_field_formatter_settings_form($field, $instance, $view_mode, $
     '#title' => t('Thumbnail Style'),
     '#default_value' => $settings['thumb_style'],
     '#description' => t('The style formatter for the thumbnail.'),
-    '#options' => $presets,
+    '#options' => $juicebox->confBaseStylePresets(FALSE),
     '#empty_option' => t('None (original image)'),
   );
   $form['caption_source'] = array(
@@ -105,7 +137,7 @@ function juicebox_field_formatter_settings_form($field, $instance, $view_mode, $
     '#empty_option' => t('No title'),
   );
   // Add common Juicebox form options.
-  $form = juicebox()->confBaseForm($form, $settings);
+  $form = $juicebox->confBaseForm($form, $settings);
   return $form;
 }
 
@@ -117,7 +149,7 @@ function juicebox_field_formatter_settings_summary($field, $instance, $view_mode
   $display = $instance['display'][$view_mode];
   $settings = $display['settings'];
   // Get available image style presets
-  $presets = image_style_options(FALSE);
+  $presets = juicebox('field')->confBaseStylePresets();
   $settings_display = array();
   // Image style setting.
   if (!empty($settings['image_style']) && isset($presets[$settings['image_style']])) {
@@ -165,11 +197,8 @@ function juicebox_field_formatter_settings_summary($field, $instance, $view_mode
  */
 function juicebox_field_formatter_view($entity_type, $entity, $field, $instance, $langcode, $items, $display) {
   $element = array();
-  // If there are no images, don't do anything else. Also, for some reason
-  // field-level access is not checked until AFTER this hook, so we run our own
-  // access check here to ensure no gallery is rendered if the embed code won't
-  // be shown (preventing the javascript from being unnecessarily included).
-  if (empty($items) || !field_access('view', $field, $entity_type, $entity)) {
+  // If there are no images, don't do anything else.
+  if (empty($items)) {
     return $element;
   }
   // The gallery shown in preview view will only display field data from the
@@ -181,31 +210,34 @@ function juicebox_field_formatter_view($entity_type, $entity, $field, $instance,
   $field_name = $instance['field_name'];
   $entity_type_info = entity_get_info($entity_type);
   $entity_id = $entity->{$entity_type_info['entity keys']['id']};
-  // We need to get the display name to pass as part of our XML path. Though
-  // we have access to the actaul $display array, it does not look like we
-  // have access to the actaul display NAME in this scope. We do have access to
-  // a list of ALL displays in $instanace though, so iterate though them to
-  // find a match to the settings in $display.
-  $display_name = 'default';
-  foreach ($instance['display'] as $display_key => $display_data) {
-    if ($display['settings'] == $display_data['settings']) {
-      $display_name = $display_key;
-    }
-  }
+  // Get the display name (view mode) from our custom display variable. This was
+  // set for us in juicebox_field_display_alter().
+  $display_name = $display['juicebox_vm'];
   // Generate xml path details.
   $xml_id = 'field/' . $entity_type . '/' . $entity_id . '/' . $field_name . '/' . $display_name;
   $xml_args = explode('/', $xml_id);
   $xml_path = 'juicebox/xml/' . $xml_id;
+  // If this is a field on a node, we can calculate the path to edit the field
+  // (used for admin contextual links).
+  $context = array();
+  if ($entity_type == 'node') {
+    $vm_settings = field_view_mode_settings($entity_type, $instance['bundle']);
+    $display_name_conf = !empty($vm_settings[$display_name]['custom_settings']) ? $display_name : 'default';
+    $context['conf_path'] = 'admin/structure/types/manage/' . $instance['bundle'] . '/display/' . $display_name_conf;
+  }
   // Try building the gallery and its XML.
   try {
     // Initialize the gallery.
-    $juicebox = juicebox();
+    $juicebox = juicebox('field');
     $juicebox->init($xml_args, $display['settings'], $items);
     // Build the gallery.
     juicebox_field_build_gallery($juicebox, $items);
     // Create a render array with the gallery markup. Also include the built
     // gallery for external reference.
-    $element[0] = array('#markup' => $juicebox->renderEmbed($xml_path), '#juicebox' => $juicebox);
+    $element[0] = array(
+      'gallery' => $juicebox->buildEmbed($xml_path, empty($display['juicebox_vm_incompatible']), $context),
+      '#juicebox' => $juicebox
+    );
   }
   catch (Exception $e) {
     $message = 'Exception building Juicebox embed code for field: !message in %function (line %line of %file).';
@@ -283,11 +315,11 @@ function _juicebox_field_get_text($item, $source) {
     }
     // If an image field caption value is specified we need to format the raw
     // caption value.
-    elseif ($source == 'image_field_caption' && !empty($item['image_field_caption']['value'])) {
+    elseif ($source == 'image_field_caption' && isset($item['image_field_caption']['value'])) {
       $format = empty($item['image_field_caption']['format']) ? filter_fallback_format() : $item['image_field_caption']['format'];
       $text = check_markup($item['image_field_caption']['value'], $format);
     }
-    else {
+    elseif (is_string($item[$source])) {
       $text = check_markup($item[$source]);
     }
   }
@@ -298,9 +330,6 @@ function _juicebox_field_get_text($item, $source) {
 /**
  * Utility to fetch the title and caption source options for field-based
  * galleries (addresses File Entity and Media module support).
- *
- * Note that this may be called when building Drupal configuration forms that
- * are managed outside of this object.
  *
  * @param array $instance
  *   An associative array containing the Drupal field instance information for
@@ -315,27 +344,23 @@ function _juicebox_field_get_text($item, $source) {
 function _juicebox_field_text_sources($instance) {
   // The filename should always be an available option.
   $text_source_options['filename'] = t('File - Filename (processed by fallback text format)');
-  if (!empty($instance['widget']['module'])) {
-    // If this is a standard image field, using the image widget, we can use
-    // core image "alt" and "title" values if they are active.
-    if ($instance['widget']['module'] == 'image') {
-      if (!empty($instance['settings']['alt_field'])) {
-        $text_source_options['alt'] = t('Image - Alt text (processed by fallback text format)');
-      }
-      if (!empty($instance['settings']['title_field'])) {
-        $text_source_options['title'] = t('Image - Title text (processed by fallback text format)');
-      }
-      // If image field caption is installed and enabled on this image field
-      // we can also use it.
-      if (module_exists('image_field_caption') && !empty($instance['settings']['image_field_caption'])) {
-        $text_source_options['image_field_caption'] = t('Image - Image field caption');
-      }
-    }
-    // If this is a standard file field, using the file widget, we can use the
-    // core file "description" value if it is active.
-    if ($instance['widget']['module'] == 'file' && !empty($instance['settings']['description_field'])) {
-      $text_source_options['description'] = t('File - Description text (processed by fallback text format)');
-    }
+  // If this is a standard image field we can use the core image "alt" and
+  // "title" values if they are active.
+  if (!empty($instance['settings']['alt_field'])) {
+    $text_source_options['alt'] = t('Image - Alt text (processed by fallback text format)');
+  }
+  if (!empty($instance['settings']['title_field'])) {
+    $text_source_options['title'] = t('Image - Title text (processed by fallback text format)');
+  }
+  // If image field caption is installed and enabled on an image field we can
+  // also use it.
+  if (!empty($instance['settings']['image_field_caption']) && module_exists('image_field_caption')) {
+    $text_source_options['image_field_caption'] = t('Image - Image field caption');
+  }
+  // If this is a standard file field we can use the core file "description"
+  // value if it is active.
+  if (!empty($instance['settings']['description_field'])) {
+    $text_source_options['description'] = t('File - Description text (processed by fallback text format)');
   }
   // If file entity is installed we can use fields attached to the "image"
   // file entity.

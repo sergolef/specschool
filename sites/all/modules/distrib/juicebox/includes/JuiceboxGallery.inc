@@ -51,10 +51,10 @@ class JuiceboxGallery implements JuiceboxGalleryInterface {
   /**
    * {@inheritdoc}
    */
-  public function addImage($src_data = array(), $title = '', $caption = '', $filter = TRUE, $override_id = NULL) {
+  public function addImage($src_data = array(), $title = '', $caption = '', $filter = TRUE, $override_id = NULL, $offset = NULL) {
     // If we are anticipating an override, but there is nothing to override,
-    // don't do anything.
-    if (isset($override_id) && empty($this->images[$override_id])) {
+    // don't do anything. Also, override_id and offset are mutually exclusive.
+    if (isset($override_id) && (empty($this->images[$override_id]) || isset($offset))) {
       return FALSE;
     }
     // Make sure we have sufficient image data to work with.
@@ -80,6 +80,9 @@ class JuiceboxGallery implements JuiceboxGalleryInterface {
     );
     if (isset($override_id)) {
       $this->images[$override_id] = $addition;
+    }
+    elseif (isset($offset)) {
+      array_splice($this->images, $offset, 0, array($addition));
     }
     else {
       $this->images[] = $addition;
@@ -159,10 +162,18 @@ class JuiceboxGallery implements JuiceboxGalleryInterface {
     }
     foreach ($this->images as $image) {
       $juicebox_image = $juicebox->appendChild($dom->createElement('image'));
+      // Standard source data should always be available.
       $juicebox_image->setAttribute('imageURL', $image['src_data']['image_url']);
       $juicebox_image->setAttribute('thumbURL', $image['src_data']['thumb_url']);
       $juicebox_image->setAttribute('linkURL', $image['src_data']['link_url']);
       $juicebox_image->setAttribute('linkTarget', $image['src_data']['link_target']);
+      // Multi-size source data may only be available in certain configurations.
+      if (!empty($image['src_data']['image_url_small'])) {
+        $juicebox_image->setAttribute('smallImageURL', $image['src_data']['image_url_small']);
+      }
+      if (!empty($image['src_data']['image_url_large'])) {
+        $juicebox_image->setAttribute('largeImageURL', $image['src_data']['image_url_large']);
+      }
       $juicebox_image_title = $juicebox_image->appendChild($dom->createElement('title'));
       $juicebox_image_title->appendChild($dom->createCDATASection($image['title']));
       $juicebox_image_caption = $juicebox_image->appendChild($dom->createElement('caption'));
@@ -185,10 +196,10 @@ class JuiceboxGallery implements JuiceboxGalleryInterface {
   /**
    * {@inheritdoc}
    */
-  public function renderJavascript($xml_path) {
+  public function renderJavascript($xml_url) {
     $output = '';
     $output .= "new juicebox({";
-    $output .= "configUrl:'" . $xml_path . "',";
+    $output .= "configUrl:'" . $xml_url . "',";
     $output .= "containerId:'" . $this->id . "'";
     // Add options that need to be loaded immediately (before XML is available).
     $load_before_xml = array('gallerywidth', 'galleryheight', 'backgroundcolor', 'themeurl', 'baseurl', 'showpreloader', 'debugmode');

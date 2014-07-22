@@ -114,7 +114,7 @@ class JuiceboxXmlField implements JuiceboxXmlInterface {
       // Load the data needed to build the gallery manually.
       $this->loadFormatterData();
       // Initalize a new gallery.
-      $juicebox = juicebox();
+      $juicebox = juicebox('field');
       $juicebox->init($this->idArgs, $this->settings, $field['#items']);
       // Manually build the gallery via the field formatter methods.
       juicebox_field_build_gallery($juicebox, $field['#items']);
@@ -159,7 +159,7 @@ class JuiceboxXmlField implements JuiceboxXmlInterface {
     $instance = field_info_instance($this->entityType, $this->fieldName, $bundle);
     if ($instance) {
       $display = field_get_display($instance, $this->displayName, $this->entity);
-      if (!empty($display['settings'])) {
+      if (isset($display['type']) && $display['type'] == 'juicebox_formatter') {
         $this->settings = $display['settings'];
         // We now have the same data available that the formatter plugin would
         // have.

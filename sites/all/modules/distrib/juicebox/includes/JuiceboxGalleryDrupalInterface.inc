@@ -89,6 +89,32 @@ interface JuiceboxGalleryDrupalInterface extends JuiceboxGalleryInterface {
   public function styleImageSrcData($image_item, $image_style, $thumb_item, $thumb_style);
 
   /**
+   * Build a render array of the embed code for a Juicebox gallery after images
+   * and options have been added.
+   *
+   * Note that this is different from JuiceboxGalleryInterface:renderEmbed() in
+   * that it handles ALL considerations for embedding. This includes the
+   * addition of the appropriate js and css which would otherwise need to be
+   * done independent of renderEmbed(). It also uses the Drupal theme system as
+   * opposed to just returning direct markup. Within Drupal this method should
+   * always be used instead of renderEmbed().
+   *
+   * @param string $xml_path
+   *   The path to the Juicebox XML for this gallery.
+   * @param boolean $add_js
+   *   Whether-or-not to add the Juicebox library and gallery-specific
+   *   javascript.
+   * @param array $context
+   *   Optional contextual information that may be used in the display:
+   *   - conf_path: A Drupal path within the admin interface where the gallery
+   *     can be configured. This may be used within administrative contextual
+   *     links for the gallery if provided.
+   * @return array
+   *   Drupal render array for the embed code that describes a gallery.
+   */
+  public function buildEmbed($xml_path = '', $add_js = TRUE, $context = array());
+
+  /**
    * Get the "base" values of common Drupal settings used to describe a gallery.
    * This is used for the management of default configuration values.
    *
@@ -112,5 +138,22 @@ interface JuiceboxGalleryDrupalInterface extends JuiceboxGalleryInterface {
    *   The common form elements merged within a form array.
    */
   public function confBaseForm($form, $settings);
+
+  /**
+   * Get the image style preset options that should be available in
+   * configuration style picklists.
+   *
+   * This is in may ways just a wrapper for image_style_options() that allows
+   * the addition of specical options that only Juicebox understands (e.g.
+   * "multi-size").
+   *
+   * @param boolean $allow_multisize
+   *   Whether-or-not to allow the addition of a PRO "multi-size" option. This
+   *   is only included if this option is TRUE and the currently detected
+   *   library is compatible with multi-size features.
+   * @return array
+   *   An associative array of style presets.
+   */
+  public function confBaseStylePresets($allow_multisize = TRUE);
 
 }
